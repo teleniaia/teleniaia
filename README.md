@@ -1,4 +1,4 @@
-Learning python one google search at a time.
+Learning software development one google search at a time.
 
 
 <!---
